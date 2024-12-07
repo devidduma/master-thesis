@@ -6,6 +6,12 @@ Title: Deep reinforcement learning in physics-based simulations
 
 Turnitin report: 18% plagiarism
 
+Flesch-Kincaid readability score: 37 
+
+(10 - 30	College graduate, Very difficult to read)
+
+(30 - 50	College,	Difficult to read)
+
 ## Abstract
 
 In neuroscience, reinforcement learning is an important concept for the learning process of all organisms. Tunicata, a marine invertebrate animal, has during larval stage a primitive brain and eyes, swims around and learns to find the best rock to attach itself into. In the adult stage it digests its brain, emphasizing that the point of having a brain is to make decisions and take intelligent actions. 
